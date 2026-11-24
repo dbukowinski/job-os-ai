@@ -43,7 +43,24 @@ Wdrożenie zajmuje ok. 5–7 godzin, rozłożonych na kilka dni. Potrzebujesz ko
 - Żadnych wymyślonych faktów, liczb ani doświadczeń.
 - Żadna oferta nie jest „nowa”, dopóki asystent nie sprawdzi obu rejestrów.
 - „Zapisano” tylko po potwierdzonym zapisie.
-- Twoje dane zostają na Twoim Dysku. Nikomu nie udostępniaj swojego trackera ani Master CV — przekazuj tylko puste szablony.
+
+## Odpowiedzialność
+
+- JOB OS to zestaw szablonów i instrukcji, **nie doradztwo kariery ani porada prawna**.
+- AI może się pomylić. Każde CV, wiadomość i ocenę oferty sprawdzasz przed wysłaniem — za treść aplikacji odpowiadasz Ty.
+- Z portali z ofertami korzystasz zgodnie z ich regulaminami: bez masowego aplikowania i bez automatycznego pobierania danych tam, gdzie regulamin tego zabrania.
+- Paczka jest udostępniana „tak jak jest”, bez gwarancji (licencja MIT).
+
+## Prywatność
+
+- Paczka nie ma serwera i niczego nie zbiera. Pliki i tracker trzymasz na swoim Google Drive.
+- CV i dane z profilu przetwarza asystent AI, którego używasz (ChatGPT, Claude). Sprawdź ustawienia prywatności swojego konta, m.in. czy rozmowy mogą służyć do trenowania modeli.
+- Nie wklejaj numeru PESEL ani dowodu, danych innych osób (np. osób polecających bez ich zgody) ani dokumentów objętych NDA.
+- Nikomu nie udostępniaj swojego trackera ani Master CV — przekazuj tylko puste szablony.
+
+## Uwagi i wsparcie
+
+To projekt prywatny, rozwijany po godzinach. Błędy i pomysły zgłaszaj w [Issues](https://github.com/dbukowinski/job-os-ai/issues) (szablon „Uwagi”). Odpowiadam w miarę czasu; Issues nie służą do indywidualnego przeglądu CV. Pull requesty mile widziane — każda zmiana w `pl/` wymaga tej samej zmiany w `en/`.
 
 ## Struktura repo
 

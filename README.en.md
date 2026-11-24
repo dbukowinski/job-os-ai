@@ -45,7 +45,24 @@ The job source list in `Search_Policy.md` is a starter list for Poland, where th
 - No invented facts, numbers or experience.
 - No offer is "new" until the assistant has checked both registers.
 - "Saved" only after a confirmed save.
-- Your data stays on your Drive. Never share your tracker or Master CV — hand over only the empty templates.
+
+## Responsibility
+
+- JOB OS is a set of templates and instructions, **not career coaching or legal advice**.
+- The AI can make mistakes. Check every CV, message and offer assessment before sending — you are responsible for what you send.
+- Use job boards according to their terms: no mass applying and no automated data collection where the terms forbid it.
+- The package is provided "as is", without warranty (MIT licence).
+
+## Privacy
+
+- The package has no server and collects nothing. You keep the files and the tracker on your own Google Drive.
+- Your CV and profile data are processed by the AI assistant you use (ChatGPT, Claude). Check your account's privacy settings, including whether conversations may be used to train models.
+- Don't paste national ID numbers, other people's data (e.g. referees without their consent) or documents under NDA.
+- Never share your tracker or Master CV — hand over only the empty templates.
+
+## Feedback and support
+
+This is a private project built in my spare time. Report bugs and ideas in [Issues](https://github.com/dbukowinski/job-os-ai/issues) ("Feedback" template). I reply when I can; Issues are not for individual CV reviews. Pull requests welcome — every change in `en/` needs the same change in `pl/`.
 
 ## Repo structure
 
