@@ -77,6 +77,13 @@ Pełne prompty są w rozdziale 16 playbooka.
 - Master CV jest nietykalne; każde CV pod ofertę to osobny dokument.
 - PDF oglądasz przed wysłaniem — liczy się to, co widzi rekruter.
 
+## Odpowiedzialność i prywatność
+
+- JOB OS to szablony i instrukcje, nie doradztwo kariery ani porada prawna. AI może się pomylić — za treść wysłanej aplikacji odpowiadasz Ty.
+- Paczka niczego nie zbiera. CV i dane z profilu przetwarza asystent AI, którego używasz — sprawdź ustawienia prywatności konta (m.in. trenowanie modeli na rozmowach).
+- Nie wklejaj numeru PESEL ani dowodu, danych innych osób bez ich zgody ani dokumentów objętych NDA.
+- Z portali z ofertami korzystasz zgodnie z ich regulaminami: bez masowego aplikowania i automatycznego pobierania danych, jeśli regulamin tego zabrania.
+
 ## Co jest w paczce
 
 ```text

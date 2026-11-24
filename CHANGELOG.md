@@ -1,5 +1,10 @@
 # Zmiany / Changelog
 
+## 1.1.1 — 2026-11-24
+
+- Przygotowanie do publikacji: w README sekcje „Odpowiedzialność”, „Prywatność” (CV przetwarza Twój asystent AI; czego nie wklejać; regulaminy portali) i „Uwagi i wsparcie”; krótka wersja w `README.md` paczki; szablony zgłoszeń PL i EN.
+- Release prep: README gets "Responsibility", "Privacy" (your AI assistant processes your CV; what not to paste; job-board terms) and "Feedback and support" sections; a short version in the package `README.md`; PL and EN issue templates.
+
 ## 1.1.0 — 2026-11-24
 
 - **Przegląd rynku przed CV:** nowy krok 2 wdrożenia, szablon `Market_Requirements_TEMPLATE.md`, prompt 16.7. Wymagania z 10 ogłoszeń ze statusem ✅ / ⚠️ / ❌; wymaganie ❌ nie trafia do CV.

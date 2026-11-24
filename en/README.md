@@ -77,6 +77,13 @@ The full prompts are in section 16 of the playbook.
 - The Master CV is untouchable; every tailored CV is a separate document.
 - You look at the PDF before sending — what counts is what the recruiter sees.
 
+## Responsibility and privacy
+
+- JOB OS is templates and instructions, not career coaching or legal advice. The AI can make mistakes — you are responsible for the application you send.
+- The package collects nothing. Your CV and profile data are processed by the AI assistant you use — check your account's privacy settings (including model training on conversations).
+- Don't paste national ID numbers, other people's data without their consent or documents under NDA.
+- Use job boards according to their terms: no mass applying and no automated data collection where the terms forbid it.
+
 ## What is in the package
 
 ```text
