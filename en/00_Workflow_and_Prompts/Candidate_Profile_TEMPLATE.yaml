@@ -1,0 +1,57 @@
+# Fill in your own data. Do not add sensitive information you do not need.
+profile_version: "1.1"
+name: "[First Last]"
+city: "[City, country]"
+contact:
+  email: "[email]"
+  phone: "[phone]"
+  linkedin: "[full URL or empty]"
+  github_or_portfolio: "[full URL or empty]"
+languages:
+  primary: "en"
+  others: []
+career:
+  target_roles: ["[Role 1]", "[Role 2]"]
+  preferred_industries: []
+  excluded_roles: []
+  seniority: "[Junior/Mid/Senior/Lead]"
+  strongest_evidence: []
+market_scan:
+  # Market scan: 10 active ads per role family (step 2 in README)
+  ads_per_role_family: 10
+  max_ads_per_company: 2
+  core_threshold: 5          # a requirement in >=5/10 ads = core of the role
+  repeat_every_weeks: 6
+  files: []                  # e.g. ["Market_Requirements_Senior_BA.md"]
+working_conditions:
+  countries_eligible: ["[Country]"]
+  work_mode: ["remote", "hybrid"]
+  employment: ["[employment contract]", "[B2B / contractor]"]
+  minimum_rate_or_salary: "[amount, currency, gross/net, unit]"
+  available_hours_per_week: 40
+  start_availability: "[date/period]"
+job_search:
+  primary_sources: ["[source 1]", "[source 2]"]   # two sources checked daily (Search_Policy.md)
+  freshness_hours: 72
+  tracks:
+    - name: "Main Career Search"
+      min_match_percent: 70
+    - name: "Side Gigs"
+      min_match_percent: 80
+      preferred_hours_weekly: "10-20"
+  exclude_conflicts: true
+interview_practice:
+  weekly_mock: true
+  mock_day_and_time: "[e.g. Wednesday 19:00]"
+  record_and_review: true
+cv:
+  language: "en"
+  max_pages: 2
+  base_font: "Aptos"
+  base_size_pt: 10.5
+  include_gdpr_if_required: true
+  contact_safe_variant_for: []   # platforms with no contact before a contract, e.g. ["Upwork"]
+urls:
+  master_cv: "[URL_MASTER_CV]"
+  application_tracker: "[URL_TRACKER]"
+  workflow: "[URL_WORKFLOW]"
